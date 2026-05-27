@@ -26,9 +26,13 @@
 **/lg/
 **/lol/
 **/pvp/
-**/scripts/
 **/bckp/
 **/*.jar
 **/*.zip
 **/server-icon.png
 **/.console_history
+
+# --- scripts/ folder: only ship *.sh + *.txt, nothing else ---
+**/scripts/*
+!**/scripts/*.sh
+!**/scripts/*.txt

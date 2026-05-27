@@ -1,0 +1,153 @@
+================================================================================
+  XEINORIA - SURVIE MAP
+  Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International
+  CC BY-NC-SA 4.0
+================================================================================
+
+(English version first, French translation below / Version anglaise d'abord,
+traduction francaise en dessous.)
+
+--------------------------------------------------------------------------------
+ENGLISH
+--------------------------------------------------------------------------------
+
+This Minecraft world (the "Work") is released by the XEINORIA server team
+under the Creative Commons Attribution-NonCommercial-ShareAlike 4.0
+International license (CC BY-NC-SA 4.0).
+
+Full legal text: https://creativecommons.org/licenses/by-nc-sa/4.0/legalcode
+Human-readable summary: https://creativecommons.org/licenses/by-nc-sa/4.0/
+
+Original work: XEINORIA Survival Map
+Author / Source: XEINORIA Minecraft community - https://norath.fr
+Download (official): https://norath.fr/download
+
+You are free to:
+  - Share : copy and redistribute the material in any medium or format.
+  - Adapt : remix, transform, and build upon the material.
+
+The licensor cannot revoke these freedoms as long as you follow the license
+terms below.
+
+Under the following terms:
+  - Attribution (BY)
+      You must give appropriate credit to the XEINORIA team, provide a link
+      to this license, and indicate if changes were made. You must include
+      a clear link back to the original work at https://norath.fr/download .
+      You may do so in any reasonable manner, but not in any way that
+      suggests the licensor endorses you or your use.
+  - NonCommercial (NC)
+      You may not use the material for commercial purposes. This includes
+      (non exhaustive list):
+        * selling the map or any derivative;
+        * using the map (or a derivative) as content of a paid Minecraft
+          server, a server with paid ranks, paid kits, paid cosmetics or
+          any pay-to-win / pay-to-access feature;
+        * monetizing access to the map through donations tied to access,
+          subscriptions, NFTs, in-game currency sold for real money, etc.
+  - ShareAlike (SA)
+      If you remix, transform, or build upon the material, you must
+      distribute your contributions under the same license (CC BY-NC-SA 4.0)
+      as the original.
+  - No additional restrictions
+      You may not apply legal terms or technological measures that legally
+      restrict others from doing anything the license permits.
+
+Notices:
+  - You do not have to comply with the license for elements of the material
+    in the public domain or where your use is permitted by an applicable
+    exception or limitation.
+  - No warranties are given. The license may not give you all of the
+    permissions necessary for your intended use. For example, other rights
+    such as publicity, privacy, or moral rights may limit how you use the
+    material.
+
+Privacy notice:
+  This archive has been intentionally cleaned before publication. It does
+  NOT contain player data, statistics, advancements, OP lists, ban lists,
+  whitelist, plugin data, server logs or any other personal information
+  about players. Only the world geometry and shared world data (scoreboards,
+  command storage, structures) are included.
+
+How to give attribution (example):
+  "XEINORIA Survival Map by the XEINORIA team (https://norath.fr/download)
+   is licensed under CC BY-NC-SA 4.0
+   (https://creativecommons.org/licenses/by-nc-sa/4.0/)."
+
+--------------------------------------------------------------------------------
+FRANCAIS
+--------------------------------------------------------------------------------
+
+Ce monde Minecraft (l'"OEuvre") est publie par l'equipe du serveur XEINORIA
+sous la licence Creative Commons Attribution - Pas d'Utilisation Commerciale -
+Partage dans les Memes Conditions 4.0 International (CC BY-NC-SA 4.0).
+
+Texte legal complet : https://creativecommons.org/licenses/by-nc-sa/4.0/legalcode.fr
+Resume lisible : https://creativecommons.org/licenses/by-nc-sa/4.0/deed.fr
+
+OEuvre originale : XEINORIA - Map Survie
+Auteur / Source : Communaute Minecraft XEINORIA - https://norath.fr
+Telechargement officiel : https://norath.fr/download
+
+Vous etes autorise a :
+  - Partager : copier, distribuer et communiquer le materiel par tous moyens
+    et sous tous formats.
+  - Adapter : remixer, transformer et creer a partir du materiel.
+
+L'Offrant ne peut retirer les autorisations concedees par la licence tant
+que vous appliquez les termes de cette licence.
+
+Selon les conditions suivantes :
+  - Attribution (BY)
+      Vous devez crediter l'OEuvre, integrer un lien vers la licence et
+      indiquer si des modifications ont ete effectuees. Vous devez inclure
+      un lien clair vers l'OEuvre originale a l'adresse
+      https://norath.fr/download . Vous pouvez le faire par tous les moyens
+      raisonnables, sans toutefois suggerer que l'Offrant vous soutient ou
+      soutient la facon dont vous avez utilise son OEuvre.
+  - Pas d'Utilisation Commerciale (NC)
+      Vous n'etes pas autorise a faire un usage commercial de cette OEuvre,
+      tout ou partie du materiel la composant. Cela inclut notamment (liste
+      non exhaustive) :
+        * vendre la map ou toute oeuvre derivee ;
+        * utiliser la map (ou une oeuvre derivee) comme contenu d'un
+          serveur Minecraft payant, ou d'un serveur avec grades payants,
+          kits payants, cosmetiques payants ou tout systeme pay-to-win /
+          pay-to-access ;
+        * monetiser l'acces a la map par dons conditionnes a l'acces,
+          abonnements, NFT, monnaie en jeu vendue contre de l'argent reel,
+          etc.
+  - Partage dans les Memes Conditions (SA)
+      Dans le cas ou vous effectuez un remix, que vous transformez, ou
+      creez a partir du materiel composant l'OEuvre originale, vous devez
+      diffuser l'OEuvre modifiee sous la meme licence (CC BY-NC-SA 4.0) que
+      l'OEuvre originale.
+  - Pas de restrictions complementaires
+      Vous n'etes pas autorise a appliquer des conditions legales ou des
+      mesures techniques qui restreindraient legalement autrui a utiliser
+      l'OEuvre dans les conditions decrites par la licence.
+
+Notes :
+  - Vous n'etes pas dans l'obligation de respecter la licence pour les
+    elements de l'OEuvre dans le domaine public ou dont l'utilisation est
+    autorisee par une exception ou une limitation.
+  - Aucune garantie n'est donnee. Il se peut que la licence ne vous donne
+    pas toutes les permissions necessaires pour votre utilisation. Par
+    exemple, certains droits comme les droits moraux, le droit des donnees
+    personnelles et le droit a l'image sont susceptibles de limiter votre
+    utilisation.
+
+Note relative a la vie privee :
+  Cette archive a ete intentionnellement nettoyee avant publication. Elle
+  NE contient PAS de donnees de joueurs, de statistiques, de progres
+  (advancements), de liste d'operateurs, de liste de bannis, de whitelist,
+  de donnees de plugins, de logs serveur ni aucune autre information
+  personnelle sur les joueurs. Seules la geometrie du monde et les donnees
+  partagees (scoreboards, command storage, structures) sont incluses.
+
+Exemple de mention d'attribution :
+  "XEINORIA - Map Survie par l'equipe XEINORIA (https://norath.fr/download)
+   est mis a disposition selon les termes de la licence CC BY-NC-SA 4.0
+   (https://creativecommons.org/licenses/by-nc-sa/4.0/deed.fr)."
+
+================================================================================
