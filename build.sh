@@ -5,7 +5,7 @@ set -euo pipefail
 ROOT="$(cd "$(dirname "$0")" && pwd)"
 SRC=/home/debian/xeinoria
 SERVERS=(crea hub nwland survie test)
-FILES=(start.sh server.properties bukkit.yml spigot.yml commands.yml help.yml permissions.yml wepif.yml eula.txt config/paper-world-defaults.yml)
+FILES=(start.sh server.properties bukkit.yml spigot.yml commands.yml help.yml permissions.yml wepif.yml eula.txt config/paper-world-defaults.yml server-icon.png)
 
 for s in "${SERVERS[@]}"; do
   mkdir -p "$ROOT/$s/config"
