@@ -1,0 +1,34 @@
+# --- Sensitive files (never commit) ---
+**/config/paper-global.yml
+**/ops.json
+**/whitelist.json
+**/banned-*.json
+**/usercache.json
+**/version_history.json
+**/forwarding.secret
+*.secret
+.env
+
+# --- Runtime / data / binaries ---
+**/world/
+**/world_nether/
+**/world_the_end/
+**/*_nether/
+**/*_the_end/
+**/plugins/
+**/cache/
+**/logs/
+**/libraries/
+**/versions/
+**/crash-reports/
+**/backups/
+**/bluemap/
+**/lg/
+**/lol/
+**/pvp/
+**/scripts/
+**/bckp/
+**/*.jar
+**/*.zip
+**/server-icon.png
+**/.console_history
