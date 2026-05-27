@@ -1,5 +1,14 @@
 #!/usr/bin/env bash
 
+# Load shared environment (REDIS_PASSWORD, *_DB_PASSWORD, ...).
+# File is chmod 600 and lives OUTSIDE any git repo. Read by Skript via
+# skript-reflect: import java.lang.System; System.getenv("REDIS_PASSWORD")
+XEINORIA_ENV_FILE="${XEINORIA_ENV_FILE:-/home/debian/xeinoria/.env.shared}"
+if [[ -r "${XEINORIA_ENV_FILE}" ]]; then
+    set -a; . "${XEINORIA_ENV_FILE}"; set +a
+fi
+
+
 SCRIPT_DIR="$(cd "$(dirname "${BASH_SOURCE[0]}")" && pwd)"
 BACKUP_SCRIPT="${SCRIPT_DIR}/scripts/backup_worlds.sh"
 BACKUP_SUMMARY_FILE="${SCRIPT_DIR}/backups/worlds/.last_backup_summary"

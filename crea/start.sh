@@ -1,4 +1,13 @@
 while true; do
+
+# Load shared environment (REDIS_PASSWORD, *_DB_PASSWORD, ...).
+# File is chmod 600 and lives OUTSIDE any git repo. Read by Skript via
+# skript-reflect: import java.lang.System; System.getenv("REDIS_PASSWORD")
+XEINORIA_ENV_FILE="${XEINORIA_ENV_FILE:-/home/debian/xeinoria/.env.shared}"
+if [[ -r "${XEINORIA_ENV_FILE}" ]]; then
+    set -a; . "${XEINORIA_ENV_FILE}"; set +a
+fi
+
     java -server -Xms4G -Xmx4G -Xss512k \
         -XX:+UseG1GC -XX:+ParallelRefProcEnabled -XX:MaxGCPauseMillis=200 \
         -XX:+UnlockExperimentalVMOptions -XX:+DisableExplicitGC -XX:+AlwaysPreTouch \
